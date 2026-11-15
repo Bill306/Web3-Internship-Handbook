@@ -2,6 +2,8 @@
 
 好奇一个行业，可以从一份愿意把基础讲清楚的手册开始。
 
+![手册网站完成构建并在本地运行](docs/images/preview.png)
+
 这是 Bill306 保存的学习 Fork。原项目由 ETHPanda 和 LXDAO 社区共同发起；下方保留上游手册的内容与贡献者信息。正文资料以中文为主。
 
 <div align="center">

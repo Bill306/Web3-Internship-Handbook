@@ -4,6 +4,8 @@
 
 Curiosity about a new field gets easier when someone is willing to explain the basics.
 
+![The handbook website built and running locally](docs/images/preview.png)
+
 ```mermaid
 flowchart LR
   A[Foundations] --> B[Industry and roles]
