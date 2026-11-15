@@ -1,161 +1,37 @@
-<div align="center">
+# Web3 Internship Handbook · Learning Fork
 
-<h1>Web3 实习手册 🚀</h1>
+**English** · [简体中文](README.zh-CN.md)
 
-**为高校学生和 Web3 新人量身打造的第一本 Web3 行业入门读物**
+Curiosity about a new field gets easier when someone is willing to explain the basics.
 
-[![GitHub stars](https://img.shields.io/github/stars/ethpanda-org/Web3-Internship-Handbook?style=social)](https://github.com/ethpanda-org/Web3-Internship-Handbook)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ethpanda-org/Web3-Internship-Handbook/pulls)
+```mermaid
+flowchart LR
+  A[Foundations] --> B[Industry and roles]
+  B --> C[Practitioner stories]
+  C --> D[Career preparation]
+  D --> E[Further reading]
+```
 
-[在线阅读](https://ethpanda-org.github.io/Web3-Internship-Handbook/) | [开始学习](./docs/zh/README.md) | [官方学习平台](https://web3career.build) | [官方 X](https://x.com/web3careerbuild) | [官方 TG](https://t.me/Web3CareerBuild) | [加入社区](https://t.me/ethpanda)
+Bill306's learning fork of the Web3 Internship Handbook, an educational project initiated by **ETHPanda and LXDAO**. The handbook belongs to its upstream authors and contributors. Its chapter content is primarily Chinese; this English README provides an entry guide.
 
-</div>
+## Find a starting point
 
----
+| Area | Chapters |
+| --- | --- |
+| Foundations | [Blockchain basics](docs/zh/part1/blockchain-basic.md), [Ethereum](docs/zh/part1/overview-of-ethereum.md), [industry areas](docs/zh/part1/industry-knowledge.md), [remote work](docs/zh/part1/remote-work-guide.md) |
+| Career paths | [Roles](docs/zh/part2/position-introduction.md), [smart contracts](docs/zh/part2/smart-contract-development.md), [community work](docs/zh/part2/community-intern.md), [security](docs/zh/part2/security.md) |
+| Practitioner stories | [Logic](docs/zh/part3/Logic.md), [Jason](docs/zh/part3/Jason.md), [Julie](docs/zh/part3/Julie.md), [Bruce](docs/zh/part3/Bruce.md) |
+| Job preparation | [Resume](docs/zh/part4/write-resume.md), [interviews](docs/zh/part4/interview-preparedness.md), [job platforms](docs/zh/part4/job-platform.md) |
+| Further reading | [Glossary, resources, questions, and tools](docs/zh/part5/part5.md) |
 
-## 📖 关于本手册
+Start with [the chapter index](docs/zh/README.md). For example, follow blockchain basics with the role overview, then write down the questions you want to investigate through a small project or conversation.
 
-Web3 实习手册是由 [ETHPanda](https://ethpanda.org) 和 [LXDAO](https://lxdao.io) 社区联合发起的开源教育项目，旨在为想要进入 Web3 行业的高校学生和初学者提供系统、安全、实用的学习路径。
+## Contribute with the community
 
-### 🎯 我们的目标
+Read [CONTRIBUTING.md](CONTRIBUTING.md) for corrections, new material, and experience sharing. [Acknowledgments](docs/zh/acknowledgments.md) records contributors. The Chinese README preserves upstream community links and the handbook's full introduction.
 
-- **降低入门门槛**：用通俗易懂的语言解释复杂概念
-- **提供实战指导**：从理论到实践，手把手教学
-- **保障学习安全**：识别常见陷阱，避免新手踩坑
-- **连接真实机会**：对接实习岗位，助力职业发展
+Program dates and recruitment notices in the source material are historical; check the organizers' current announcements before applying.
 
-### 👥 适合人群
+## Attribution and terms
 
-- 🎓 **在校大学生**：对区块链感兴趣，想要了解行业机会，并且找到实习
-- 💻 **Web3 新人**：刚刚加入 Web3 行业，想要进一步学习但是没有头绪
-- 🌐 **Web2 转型者**：传统互联网背景，寻求新的发展方向
-- 🚀 **Web3 入职新员工**：作为公司新人的基础知识培训手册
-
----
-
-## 📚 Web3 实习计划 2025 冬季 正在进行
-
-官方平台：<https://web3career.build>（用于报名学习和管理进度）
-
-项目地址：<https://web3career.build/programs/web3-internship-bootcamp-2025-winter>
-
-官方 X：<https://x.com/web3careerbuild>
-
-官方 TG：<https://t.me/Web3CareerBuild>
-
----
-
-## 📚 内容导航
-
-### 第一部分：入门导读
-
-1. [**区块链基础概念**](./docs/zh/part1/blockchain-basic.md)
-
-   - 区块链的本质与运作原理
-   - 公链、私链、联盟链的区别
-   - Web3 vs Web2：范式转变
-
-2. [**以太坊概览**](./docs/zh/part1/overview-of-ethereum.md)
-
-   - 从 PoW 到 PoS：The Merge 详解
-   - Layer 2 扩展方案全景
-   - EVM 生态系统导览
-
-3. [**行业赛道全览**](./docs/zh/part1/industry-knowledge.md)
-
-   - DeFi：重塑金融体系
-   - NFT：数字资产革命
-   - DAO：组织形态创新
-   - 2025 年新兴趋势
-
-4. [**Web3 工作方式**](./docs/zh/part1/remote-work-guide.md)
-   - 必备工具与平台使用
-   - 远程协作最佳实践
-   - 社区文化与行业黑话
-
-### 第二部分：职业发展
-
-1. [**区块链岗位全景图**](./docs/zh/part2/position-introduction.md)
-
-   - 技术岗 vs 非技术岗
-   - 各岗位技能要求
-   - 职业发展路径
-
-2. [**智能合约开发**](./docs/zh/part2/smart-contract-development.md)
-
-   - Solidity 从入门到精通
-   - Dapp 架构设计
-   - 安全审计要点
-
-3. [**社区运营指南**](./docs/zh/part2/community-intern.md)
-
-   - 社区增长策略
-   - 活动策划执行
-   - 数据分析方法
-
-4. [**安全与合规**](./docs/zh/part2/security.md)
-   - 常见安全威胁
-   - 合规要求解读
-
-### 第三部分：前辈经验
-
-- [**Logic**：前端工程师的 Web3 征途](./docs/zh/part3/Logic.md)
-- [**Jason**：从 Web2 到 Web3 的转型之路](./docs/zh/part3/Jason.md)
-- [**Julie**：00 后如何成为社区增长专家](./docs/zh/part3/Julie.md)
-- [**Bruce**：用人方视角：如何成为靠谱的 Web3 实习生](./docs/zh/part3/Bruce.md)
-
-### 第四部分：求职指南
-
-1. [**简历撰写指导**](./docs/zh/part4/write-resume.md)
-2. [**面试通关秘籍**](./docs/zh/part4/interview-preparedness.md)
-3. [**求职平台推荐**](./docs/zh/part4/job-platform.md)
-
-### [第五部分：资源附录](./docs/zh/part5/part5.md)
-
-1. 区块链 / 以太坊术语表
-2. 推荐资料清单（文档、书籍、技术博客、视频课程等）
-3. 常见问题解答（FAQ）
-4. 工具清单与 GitHub 推荐列表
-
----
-
-## 🤝 参与贡献
-
-我们欢迎所有形式的贡献！无论是修正错别字、完善内容，还是分享你的经验，都将帮助更多人。
-
-### 如何贡献
-
-1. Fork 本仓库
-2. 创建你的分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交你的更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 提交 Pull Request
-
-详细指南请查看 [CONTRIBUTING.md](./CONTRIBUTING.md)
-
----
-
-## 👥 核心贡献者
-
-本项目由 [ETHPanda](https://ethpanda.org) 和 [LXDAO](https://lxdao.io) 社区联合发起，由众多 Web3 行业专家和开发者共同贡献。
-
-[查看完整贡献者名单](./docs/zh/acknowledgments.md)
-
----
-
-## 📮 联系我们
-
-- **GitHub Issues**: [提交问题或建议](https://github.com/ethpanda-org/Web3-Internship-Handbook/issues)
-- **Telegram**: [ETHPanda](https://t.me/ETHPandaOrg) | [LXDAO](https://t.me/lxdao)
-
-## 📄 开源协议
-
-本项目采用 MIT License 开源协议。禁止进行私自打印和售卖。使用 CC BY-NC-SA 4.0 许可协议。
-
----
-
-<div align="center">
-  <p>如果这个项目对你有帮助，请给我们一个 ⭐️ Star！</p>
-  <p>Made with ❤️ by ETHPanda & LXDAO Community</p>
-</div>
+This fork preserves upstream authorship. The upstream README states MIT and CC BY-NC-SA 4.0 terms and a restriction on unauthorized printing/sale. Review the repository's applicable notices and content terms before redistribution.
